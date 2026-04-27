@@ -7,7 +7,7 @@ Sample repo to set up codespaces for use with Objective-C and GNUstep on OpenBSD
 Install GNUstep on OpenBSD using the package manager:
 
 ```sh
-pkg_add gnustep-make gnustep-base
+pkg_add gnustep-make gnustep-base libobjc2
 ```
 
 After installation, source the GNUstep environment script to configure your shell:
